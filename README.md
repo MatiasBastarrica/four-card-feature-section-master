@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/four-card-feature-using-grid-and-fluid-typography-nd7jTctdTc)
 - Live Site URL: [Live](https://matiasbastarrica.github.io/four-card-feature-section-master/)
 
 ## My process
