@@ -57,4 +57,4 @@ I need more practice applying grid so I'm looking forward to start using it more
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MatiasBastarrica)
+- Frontend Mentor - [@MatiasBastarrica](https://www.frontendmentor.io/profile/MatiasBastarrica)
