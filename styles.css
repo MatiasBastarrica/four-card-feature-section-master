@@ -77,7 +77,6 @@ img {
 
 body {
   font-family: var(--ff-poppins);
-  font-size: 15px;
   color: var(--grey-400);
   background-color: hsl(0, 0%, 98.04%);
   font-size: clamp(0.938rem, 0.3vw + 1rem, 0.8rem);
